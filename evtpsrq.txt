@@ -1,0 +1,2 @@
+linux commandlarinda her hansisa bir file ve ya directorynin adini deyismek ucun mv den istifade olunur
+mv evvelkiad/ yeniad/
